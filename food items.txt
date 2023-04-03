@@ -1,0 +1,3 @@
+itemname,price
+biryani,200
+haleem,150
